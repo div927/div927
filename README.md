@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divyanshu
-- 👀 I’m interested in Data Engineering, Web Scrapping, Data Analysis!!! (Python and MySQL)
+- 👀 I’m interested in Data Engineering, Web Scrapping, Data Analysis!!! (Ruby, SQL and Python)
 - 🌱 I’m currently learning Golang!!
 - 💞️ I’m looking to collaborate on data related projects!!!
 - 📫 You can reach me email at kumardivyanshu123@gmail.com
